@@ -1,0 +1,2 @@
+# OnlineBookmarkingApplication
+CSE - 325 Software Engineering is a course offeredto3rd year students in winter semesterto developsoftwares of their ownand learn the process. Online Bookmarking Application is an attempt to achieve a cross-platform service which provides you with your saved webpages across any browser. Also you can enter username and password so that your information remains secure and add favorites to your homepage.
